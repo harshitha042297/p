@@ -1,0 +1,7 @@
+/* Define a CSS class for the hover effect */
+.card-hover:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(15, 14, 14, 0.2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
